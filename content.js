@@ -12,6 +12,7 @@
             count,
           });
         } else {
+          // Just changing the text instead of clicking it to avoid spamming my account. The code to click is added below.
           connectBtn.innerHTML = "Invite sent";
           //   connectBtn.click();
           //   const modal = document.getElementById("artdeco-modal-outlet");
